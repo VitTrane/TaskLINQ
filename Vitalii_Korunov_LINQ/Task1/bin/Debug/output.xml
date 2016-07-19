@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <BankName>ВТБ24</BankName>
+    <Name>Александр</Name>
+    <SecondName>Иванов</SecondName>
+    <Patronymic>Отсутствует</Patronymic>
+    <DateBirth>1114-11-22T00:00:00</DateBirth>
+  </Customer>
+  <Customer>
+    <BankName>Сбербанк</BankName>
+    <Name>Александр</Name>
+    <SecondName>Иванов</SecondName>
+    <Patronymic>Отсутствует</Patronymic>
+    <DateBirth>1116-11-22T00:00:00</DateBirth>
+  </Customer>
+</ArrayOfCustomer>
